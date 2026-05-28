@@ -1,0 +1,12 @@
+# Exclude audit subfolder (published separately)
+Claude audit stochien/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+New Text Document.txt
+
+# Editors
+.vscode/
+*.swp
